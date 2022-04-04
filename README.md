@@ -18,21 +18,23 @@ Here are some ideas to get you started:
 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/hasan-saleem-2046a7196/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="your-linkedin-URL">
+   <a href="https://hassan-99c70.web.app" target="_blank">
          <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.instagram.com/its_hasanyousafzai/" target="_blank">
          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.facebook.com/hassanjani88/" target="_blank">
          <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   
 
 </div>
+<br>
+
 <div id="header" align="start">
   <img src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="300" height="200"/>
 <!--     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
